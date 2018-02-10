@@ -39,8 +39,6 @@
             }
             displayPoints($randomValue1,$randomValue2,$randomValue3,$randomValue4);
     }
-    function jackPot(){
-        jackpot = new component
-    }
+    
 
 ?>
